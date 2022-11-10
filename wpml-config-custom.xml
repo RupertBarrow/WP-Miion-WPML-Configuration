@@ -1,0 +1,43 @@
+<wpml-config>
+  <elementor-widgets>
+    <widget name="miionsectiontitle">
+      <fields>
+        <field type="title_head" editor_type="LINE">title_head</field>
+        <field type="title"           editor_type="LINE">title</field>
+        <field type="sub_title"       editor_type="LINE">sub_title</field>
+        <field type="lead_text"       editor_type="LINE">lead_text</field>
+        <field type="sec_tit_content" editor_type="LINE">sec_tit_content</field>
+      </fields>
+    </widget>
+    <widget name="miionflipbox">
+      <fields>
+        <field type="title"           editor_type="LINE">title</field>
+        <field type="btn_text"        editor_type="LINE">btn_text</field>
+        <field type="content"         editor_type="LINE">content</field>
+        <field type="btn_url"         editor_type="LINK">btn_url</field>
+      </fields>
+    </widget>
+    <widget name="miionfeaturebox">
+      <fields>
+        <field type="title"           editor_type="LINE">title</field>
+        <field type="ribbon_value"    editor_type="LINE">ribbon_value</field>
+        <field type="content"         editor_type="LINE">content</field>
+        <field type="title_url"       editor_type="LINK">title_url</field>
+        <field type="fbox_video"      editor_type="LINK">fbox_video</field>
+        <field type="btn_url"         editor_type="LINK">btn_url</field>
+      </fields>
+    </widget>
+    <widget name="miionlistitem">
+      <fields>
+        <field type="list_title"      editor_type="LINE">list_title</field>
+      </fields>
+    </widget>
+    <widget name="miionmodalpopup">
+      <fields>
+        <field type="link_text"       editor_type="LINE">link_text</field>
+        <field type="btn_text"        editor_type="LINE">btn_text</field>
+        <field type="modal_title"     editor_type="LINE">modal_title</field>
+      </fields>
+    </widget>
+  </elementor-widgets>
+</wpml-config>
